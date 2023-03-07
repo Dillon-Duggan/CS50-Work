@@ -1,0 +1,17 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It was much faster than sort3 when ran with sorted5000.txt, indicating that it did not have to run redundantly as sort3 would have.
+
+sort2 uses: Merge Sort
+
+How do you know?: It is much faster at sorting random algorithms than sort1 or sort3.
+
+sort3 uses: Selection Sort
+
+How do you know?: Through process of elimination, sort3 uses selection sort as it sorts all 3 text files used in relatively similar time frames.
+
+---
+
+random50000 - sort1 = 7.573s, sort2 = 0.895s, sort3 = 3.687s
+reversed50000 - sort1 = 5.606s, sort2 = 0.990s, sort3 = 3.920s
+sorted50000 - sort1 = 0.977s, sort2 = 0.579s, sort3 = 3.371s

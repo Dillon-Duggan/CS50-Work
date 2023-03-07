@@ -1,0 +1,4 @@
+I would characterise their aura as high tempo as the majority of their top 100 songs are over 100 bpm
+
+This calculation may no be accurate or representative of the listener as it only takes into account one aspect of the songs data.
+Ideally, we would look at all the data and use it in conjuction to find a more suitable "aura" for the listener.
